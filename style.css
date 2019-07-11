@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1{
+    background-color:rgb(255, 0, 0);
+    color: green
+}
+
+h2{color: pink
+}
+h3{color: brown
+}
+
+.hoge{
+  margin:30px
+}
