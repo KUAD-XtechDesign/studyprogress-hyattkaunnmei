@@ -1,4 +1,38 @@
 html{
-  color:red;
-  background: green;
+  color:＃333;
+  background: #fff;
+
+  font-sizu: 14px;
+  link-heidht: 1.8;
   }
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+a{
+  color: #333;
+}
+
+li{
+  list-style-position: outside;
+}
+
+.mb_s{
+  margin-bottom: 40px;
+}
+
+.mb_m{
+  margin-bottom: 20px;
+}
+
+.mb_l{
+  margin-bottom: 40px;
+}
